@@ -1,5 +1,5 @@
 # Hi! I'm Yukiko
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Strategic%20Business%20Builder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Connecting%20Global%20Innovation%20to%20Japan&descSize=20&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Strategic%20Account%20Manager&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Connecting%20Global%20Innovation%20to%20Japan&descSize=20&descAlignY=60)
 
 ## About Me
 - 👤 Name: Yukiko Ono
