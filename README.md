@@ -4,14 +4,13 @@
 ## About Me
 - 👤 Name: Yukiko Ono
 - 🌍 Based in: Tokyo, Japan
-- 💼 Currently: Indivisual Marketing Consultant
+- 💼 Currently: Strategic Account Manager for Japan FSI
 
 ## Interests
 - 🤖 AI & Machine Learning
 - 🚀 Emerging Technologies
 
 ## Currently Learning
-- How to use GitHub
 - Leveraging AI tools in development
 
 ## 🎯 Profile
